@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am currently researching AI Models on vision systems
+I am currently researching using models to detect anomolies in repetative data
+
+I am in school for Industrial and Systems Engineering
+
+Fun fact: I've been in marching band for 8 years!
 <!--
 **jacksondmiller0/jacksondmiller0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
